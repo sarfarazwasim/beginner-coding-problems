@@ -1,0 +1,1 @@
+export const concatenateStrings = (string1: string, string2: string, string3: string): string => string1 + " " + string2 + " " + string3;
