@@ -1,2 +1,2 @@
 # beginner-coding-problems
-A list of beginner coding problems with solutions for people new to javascript
+A list of beginner coding problems with solutions for people new to Typescript
